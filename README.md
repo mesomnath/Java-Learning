@@ -1,6 +1,6 @@
 # Java-Learning
 <div id="badges">
-  <a href="www.linkedin.com/in/somnath-sahu">
+  <a href="https://www.linkedin.com/in/somnath-sahu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/somnathsahu_">
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-200000/?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+
 # Java Basics - For Loops Examples
 
 Simple Java examples demonstrating basic for-loop usage and patterns.
